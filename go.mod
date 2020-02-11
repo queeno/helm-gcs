@@ -1,4 +1,4 @@
-module github.com/hayorov/helm-gcs
+module github.com/queeno/helm-gcs
 
 go 1.13
 
